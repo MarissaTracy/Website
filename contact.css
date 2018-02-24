@@ -40,3 +40,9 @@ nav nav-tabs {
   color: #CCFFFF;
 
 }
+
+.button {
+    border-radius: 5px;
+    background-color: #FFCCCC;
+    padding: 20px;
+}
